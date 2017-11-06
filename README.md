@@ -2,5 +2,5 @@
 
 # TODO
 
-monitoring network state
-stop alarm when display is active
+monitoring network state <br>
+stop alarm when display is active <br>
