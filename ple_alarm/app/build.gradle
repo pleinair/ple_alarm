@@ -7,8 +7,8 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.key.pleinair.ple_alarm"
-        minSdkVersion 21
+        applicationId "key.ple.ple_alarm"
+        minSdkVersion 23
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
